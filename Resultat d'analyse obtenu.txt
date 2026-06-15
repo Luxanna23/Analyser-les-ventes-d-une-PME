@@ -1,0 +1,19 @@
+- Chiffre d'affaires : 5268.78 €
+
+- Ventes par produit :
+
+nom : Produit A - quantite : 24
+nom : Produit B - quantite : 27
+nom : Produit C - quantite : 15
+nom : Produit D - quantite : 21
+nom : Produit E - quantite : 35
+
+- Ventes par ville :
+
+ville : Bordeaux - 829.81 €
+ville : Lille - 249.93 €
+ville : Lyon - 1059.79 €
+ville : Marseille - 1009.73 €
+ville : Nantes - 739.83 €
+ville : Paris - 799.8 €
+ville : Strasbourg - 579.89 €

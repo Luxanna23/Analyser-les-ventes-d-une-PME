@@ -1,0 +1,15 @@
+services:
+    sqlite:
+        image: alpine/sqlite:latest
+        volumes:
+            - db-data:/data
+        stdin_open: true
+        tty: true
+    php:
+        build: .
+        volumes:
+            - db-data:/data
+        depends_on:
+            - sqlite
+volumes:
+    db-data:
